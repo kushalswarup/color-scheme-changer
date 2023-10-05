@@ -1,0 +1,28 @@
+.container{
+    /* width: 50%;
+    margin:  auto; */
+
+    text-align: center;
+}
+.h1{
+    font-style: italic;
+    font-weight: 100;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border:2px solid black;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#purple{
+    background-color: purple;
+}
